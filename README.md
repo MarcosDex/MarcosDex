@@ -34,9 +34,9 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/jetbrains_intellij%403x.png" alt="jetbrains" width="100" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/eclipse%403x.png" alt="eclipse" width="90" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/jetbrains_pycharm%403x.png" alt="pycharm" width="90" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/jetbrains_intellij%403x.png" alt="jetbrains" width="150" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/eclipse%403x.png" alt="eclipse" width="180" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/jetbrains_pycharm%403x.png" alt="pycharm" width="150" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/unity.png" alt="unity" width="100" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js%402x.png" alt="javascript" width="180" hight="50">
 </br>
