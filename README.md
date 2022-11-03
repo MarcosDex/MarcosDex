@@ -37,7 +37,7 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js%402x.png" alt="javascript" width="140" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/jetbrains_pycharm%403x.png" alt="pycharm" width="120" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/unity.png" alt="unity" width="100" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/eclipse%403x.png" alt="eclipse" width="180" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/eclipse%403x.png" alt="eclipse" width="100" hight="50">
  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/jetbrains_intellij%403x.png" alt="jetbrains" width="180" hight="50">
 </br> 
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
