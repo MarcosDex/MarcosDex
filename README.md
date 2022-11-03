@@ -16,8 +16,7 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/MarcosDex/MarcosDex/blob/main/sources/download.gif">
 
 ### - Learning :
-- ✨ PHP ## MYSQL
-- ✨ C/C++
+- ✨ C++/C# 
 
 
 </br>
@@ -39,6 +38,7 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/jetbrains_pycharm%403x.png" alt="pycharm" width="120" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/unity.png" alt="unity" width="100" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js%402x.png" alt="javascript" width="180" hight="50">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/php%403x.png" alt="php" width="180" hight="50">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
@@ -73,6 +73,15 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://steamcommunity.com/id/Perfilms">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
+</br>
+</br>
+</br>
+</a>
+</a>
+ <a href="https://www.linkedin.com/in/marcosdex/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin%402x.png" />
+</a>
+ 
  </p>
  
 
