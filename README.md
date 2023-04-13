@@ -16,7 +16,7 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/MarcosDex/MarcosDex/blob/main/sources/download.gif">
 
 ### - Learning :
-- ✨ C++/C# 
+- ✨ C/Angular
 
 
 </br>
